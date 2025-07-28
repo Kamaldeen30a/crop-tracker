@@ -6,8 +6,8 @@ A responsive, user-friendly React + Tailwind CSS web app for tracking crop data 
 
 ## 🚀 Live Demo
 
-👉 [View Demo](https://your-vercel-link.vercel.app)  
-*(Replace with your actual deployed link)*
+👉 [View Demo](https://crop-tracker-2v8u.vercel.app/)  
+
 
 ---
 
